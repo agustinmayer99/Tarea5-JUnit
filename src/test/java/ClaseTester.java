@@ -16,7 +16,7 @@ public class ClaseTester {
     @Test
     public void cuadradoDelNumeroTest(){
         int resultado = CAT.cuadradoDelNumero(3);
-        assertEquals(9,resultado);
+        assertEquals(11,resultado);
     }
 
     @Test
